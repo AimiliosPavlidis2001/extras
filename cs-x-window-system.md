@@ -8,6 +8,17 @@
 X10, ήρθαν πιο κοντά σε ένα ολοκληρωμένο προϊόν, αλλά ήταν απαραίτητο να γίνουν κάποιες αλλαγές. Όταν εκδόθηκε το X11 ο στόχος ήταν η κυριαρχία στην αγορά και κατά βάση 
 η αντικατάσταση του τότε κυρίαρχου συστήματος SunView.
 
+![](x-windows-system-graph.md){.figure}
 
 Πριν την έκδοση του X11, δόθηκαν πολλά δείγματα. Τελικά το σχέδιο υλοποιήθηκε επιτυχώς, αφού κατάφεραν να το πουλήσουν στην Digital Management. Για την ανάπτυξη του X11 
 προσλήφθηκε ομάδα προγραμματιστών στο MIT και δεν αντιγράφηκε κώδικας από τη προηγούμενη έκδοση X10. Τέλος, το σεπτέμβρη του 1987 εκδόθηκε το τελικό προϊόν στην αγορά.
+
+"[X client server example](https://commons.wikimedia.org/wiki/File:X_client_server_example.svg)" originally by David Gerald, recreated by Efitu
+
+Title: "[X client server example](https://commons.wikimedia.org/wiki/File:X_client_server_example.svg)"
+
+Creator: originally by David Gerald, recreated by Efitu
+
+Source: "[X client server example](https://commons.wikimedia.org/wiki/File:X_client_server_example.svg)"
+
+Licenses: GNU Free Documentation License, Creative Commons Attribution-Share Alike 3.0 Unported license
