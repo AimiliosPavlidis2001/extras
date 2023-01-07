@@ -11,4 +11,6 @@
 
 ![](bio-nelson.md){.include}
 
+![](my-xanadu-space.md){.myluafilter}
+
 ## Βιβλιογραφία
