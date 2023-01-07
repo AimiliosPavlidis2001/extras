@@ -1,3 +1,6 @@
+## Η περίπτωση του X Window System
+
+![](cs-x-window-system.md){.include}
 
 ## Η περίπτωση του Xerox Alto
 
@@ -6,6 +9,10 @@
 ## Η περίπτωση του ερευνητικού κέντρου Xerox PARC
 
 ![](cs-parc.md){.include}
+
+## Σύντομη βιογραφία του Rob Pike
+
+![](bio-pike.md){.include}
 
 ## Σύντομη βιογραφία του Alan Kay
 
